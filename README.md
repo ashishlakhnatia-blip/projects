@@ -1,7 +1,8 @@
-“Sales Analysis Dashboard – Awesome Chocolates”
+<b>“Sales Analysis Dashboard – Awesome Chocolates”</b>                                            
 Time Period: Jan 2023 – Feb 2024 | Tools: Power BI, DAX, Data Modeling
 
-Key Highlights
+<b>Key Highlights:</b>          
+
 Total Sales: $34.04M
 
 Total Profit: $20.5M (Profit %: 60.3%)
