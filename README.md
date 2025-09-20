@@ -1,4 +1,4 @@
-# “Sales Analysis Dashboard – Awesome Chocolates”                                            
+# Sales Analysis Dashboard – Awesome Chocolates                                           
 Time Period: Jan 2023 – Feb 2024 | Tools: Power BI, DAX, Data Modeling
 
 ## Key Highlights:         
